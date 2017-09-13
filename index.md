@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+# Welcome to my project 
+## This is a cool project
+### Trust me
 
 You can use the [editor on GitHub](https://github.com/richardrodriguez21/another-static/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
